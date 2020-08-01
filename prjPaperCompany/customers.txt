@@ -1,0 +1,9 @@
+Jim Gordon,Jim12,Gordon12,1239087
+Chris G,Chris123,Bass7654,12345678
+Katie Lou,Kattie112,Sky7654,657676576
+James Henry,James123,James12,12346712
+Gus Fring,Gus123,Fring12,1267890
+Mike Ehrmnatraut,Ehrmantraut12,Los7654,678901
+Kim Wexler,Kim12,Wexler12,345671
+Chuck Mcgill,Chuck12,Mcgill12,45678121
+Nacho Varga,Nacho1,Varga1,456712
